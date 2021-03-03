@@ -1,5 +1,5 @@
 <?php
-require_once('../config.php');
+require_once('../../config.php');
 $option_marca = '';
 
 $query_marcas = "SELECT * FROM marcas ";
